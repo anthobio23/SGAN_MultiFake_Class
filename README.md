@@ -8,6 +8,6 @@ algorithm detects through a variational
 autoencoder whether the input fingerprint 
 as an image is falsified or not. 
 The precision with which the algorithm 
-detects fingerprints is 94%. 
+detects fingerprints is 92%. 
 although it can still be improved ..
 
